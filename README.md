@@ -1,6 +1,8 @@
-# myquiz
 
-A new Flutter project.
+# Math Quiz App 🧮
+
+A simple Flutter quiz app for practicing basic math operations.
+
 
 ## Getting Started
 
