@@ -3,16 +3,4 @@
 
 A simple Flutter quiz app for practicing basic math operations.
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image alt] (https://github.com/SaherIsrar1/QuizApp/blob/83f330e966f30e77466685fbd6f6d0512249e9f9/Screenshot%20(39).png)
